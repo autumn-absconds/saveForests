@@ -1,6 +1,8 @@
-# Save Forests Website
+![wepik-export-20230908181415QtA8](https://github.com/autumn-absconds/saveForests/assets/65112908/c65c441a-be1e-4e7e-869e-dccb3fce0337)
 
-![Save Forests](images/icon.png)
+
+![Untitled video - Made with Clipchamp (2)](https://github.com/autumn-absconds/saveForests/assets/65112908/ecc196cb-36f1-47bd-9cae-d8282c004ff8)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
